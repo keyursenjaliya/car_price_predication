@@ -10,7 +10,7 @@ gunicorn==20.0.4
 idna @ file:///tmp/build/80754af9/idna_1593446292537/work
 ImageHash==4.1.0
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 joblib==0.15.1
 jsonify==0.5
 MarkupSafe @ file:///C:/ci/markupsafe_1594405949945/work
