@@ -16,7 +16,7 @@ jsonify==0.5
 MarkupSafe @ file:///C:/ci/markupsafe_1594405949945/work
 matplotlib==3.2.1
 missingno==0.4.2
-numpy==1.19.0
+numpy==1.22.0
 pandas-profiling==2.6.0
 phik==0.9.11
 pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
