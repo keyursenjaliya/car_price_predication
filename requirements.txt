@@ -11,7 +11,7 @@ idna @ file:///tmp/build/80754af9/idna_1593446292537/work
 ImageHash==4.1.0
 itsdangerous==1.1.0
 Jinja2==2.11.2
-joblib==0.15.1
+joblib==1.2.0
 jsonify==0.5
 MarkupSafe @ file:///C:/ci/markupsafe_1594405949945/work
 matplotlib==3.2.1
